@@ -90,7 +90,7 @@ DATABASES = {
     }
 }
 
-BASE_URL = "http://ilya-shevelev.ru"
+BASE_URL = "https://ilya-shevelev.ru"
 
 # Password validation
 # https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators
