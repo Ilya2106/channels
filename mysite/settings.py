@@ -82,6 +82,7 @@ ASGI_APPLICATION = "mysite.asgi.application"
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql_psycopg2",
+        "NAME": "django_db",
         'USER': "django",
         'PASSWORD': "password",
         'HOST': 'localhost',
